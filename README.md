@@ -1,6 +1,4 @@
 # Java-Swing-Calculator
-
-MathCalc
 ========
 
 A basic GUI based calculator made to perform mathematical operation such as addition, substraction, multiplication and division. 
